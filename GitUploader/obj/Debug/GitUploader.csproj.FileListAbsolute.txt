@@ -1,0 +1,11 @@
+D:\Project\GitUploader\GitUploader\GitUploader\bin\Debug\GitUploader.exe.config
+D:\Project\GitUploader\GitUploader\GitUploader\bin\Debug\GitUploader.exe
+D:\Project\GitUploader\GitUploader\GitUploader\bin\Debug\GitUploader.pdb
+D:\Project\GitUploader\GitUploader\GitUploader\obj\Debug\GitUploader.csproj.AssemblyReference.cache
+D:\Project\GitUploader\GitUploader\GitUploader\obj\Debug\GitUploader.csproj.SuggestedBindingRedirects.cache
+D:\Project\GitUploader\GitUploader\GitUploader\obj\Debug\GitUploader.Properties.Resources.resources
+D:\Project\GitUploader\GitUploader\GitUploader\obj\Debug\GitUploader.csproj.GenerateResource.cache
+D:\Project\GitUploader\GitUploader\GitUploader\obj\Debug\GitUploader.csproj.CoreCompileInputs.cache
+D:\Project\GitUploader\GitUploader\GitUploader\obj\Debug\GitUploader.exe
+D:\Project\GitUploader\GitUploader\GitUploader\obj\Debug\GitUploader.pdb
+D:\Project\GitUploader\GitUploader\GitUploader\obj\Debug\GitUploader.TIL.resources
